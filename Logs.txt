@@ -1,0 +1,7 @@
+John D DeLong 
+Logs.txt
+-------------
+
+12-07-15
+        - Created a Github for capstone project
+        - Created logs.txt
