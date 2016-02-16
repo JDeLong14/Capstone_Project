@@ -5,3 +5,7 @@ Logs.txt
 12-07-15
         - Created a Github for capstone project
         - Created logs.txt
+
+02-15-16
+        - Created the TwoYearProgram, iAdvise and StudentLoginProgram Branches
+        - Trying to figure out how to put the projects into different branches
