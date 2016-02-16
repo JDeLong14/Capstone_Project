@@ -1,0 +1,13 @@
+Name: DeLong,Pete g
+ ID: 12345678
+ Gpa:  4.0
+ Campus: Ammerman
+ Major: CIS, 
+ Home Number: (787)878-7878
+ Cell Number: (787)878-7878
+ E-mail: idk@aol.com
+ Address: 78 sdf sdgfg,AL 11934
+Courses Completed: 
+ Courses Taken: 
+ Courses Required: 
+ Notes :help 1 help2 Help 3
